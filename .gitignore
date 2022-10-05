@@ -29,4 +29,6 @@ custom/*
 !/var/log/.gitkeep
 !/var/cache/.gitkeep
 /auth.json
+/config/jwt/*
+!/config/jwt/.gitkeep
 ###< shopware/core ###
